@@ -90,9 +90,9 @@ http://183.207.248.71/cntv/live1/zhejiangstv/zhejiangstv
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方",深圳卫视
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="地方",湖北卫视
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdhubeistv/1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/hdhunanstv/1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方",重庆卫视
 http://183.207.248.71/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方",黑龙江卫视
