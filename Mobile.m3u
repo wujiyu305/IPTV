@@ -45,8 +45,8 @@ http://10.0.1.1:4022/rtp/239.11.0.2:5140
 http://10.0.1.1:4022/rtp/239.11.0.5:5140
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",SCTV-5
 http://10.0.1.1:4022/rtp/239.11.0.77:5140
-#EXTINF:-1 tvg-id="2060" tvg-name="峨眉电影" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="四川",SCTV-6
-http://10.0.1.1:4022/rtp/239.11.0.11:140
+#EXTINF:-1 tvg-id="2060" tvg-name="峨眉电影" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="四川",峨眉电影
+http://10.0.1.1:4022/rtp/239.11.0.11:5140
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",SCTV-7
 http://10.0.1.1:4022/rtp/239.11.0.8:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-8
